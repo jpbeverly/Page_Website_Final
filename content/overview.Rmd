@@ -1,0 +1,37 @@
+---
+title: "Overview"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 2020 Page County Summer Project {style=text-align:center}
+
+Page County suffers from some of the highest rates of recidivism in the state of Virginia and other intergenerational poverty issues. Page County would like to identify factors and and determine ways to increase relative and absolute economic mobility for the vulnerable population in the county. 
+
+
+![Virginia](/images/PageCounty.png){style="width:75%; style = display: block; margin-left: auto; margin-right: auto;"}
+
+
+While Virginia has the lowest recidivism rate in the U.S., Page County has the highest recidivism rate in the state.
+Derived from the Latin recidivus meaning "recurring", recidivism means "a falling back" usually implying into bad habits.
+
+
+<center>
+![Page](/download/recidivism.png){width=350px height=200px}
+</center>
+
+
+###Project Goals 
+
+
+1. $\textbf{Identify}$ and $\textbf{Compare}$ community capital available in Page and surrounding counties.
+
+2. $\textbf{Identify}$ ways to enhance the community capital in Page County.
+
+3. $\textbf{Create}$ a vulnerability score to identify factors and areas vulnerable to recidivism and intergeneration poverty issues. 
+
+
+
